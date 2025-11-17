@@ -1,3 +1,3 @@
 # Chat-App
 
-## will update soon
+## **basic socket server done**
